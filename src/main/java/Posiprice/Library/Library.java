@@ -4,8 +4,9 @@
 package Posiprice.Library;
 
 public class Library {
-    public boolean someLibraryMethod() {
+    public boolean patrones() {
         return true;
     }
+    
 }
 
